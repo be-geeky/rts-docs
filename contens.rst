@@ -4,8 +4,8 @@
 
    Getting_started
    Authentication
-   docs/Orders
-   Products
+   Orders
+   docs/Products
    Basket
    Frequently_asked_questions
    Development_support
