@@ -2,10 +2,10 @@
    :includehidden:
    :titlesonly:
 
-   Getting_started
-   Authentication
-   Orders
-   Products
-   Basket
-   Frequently_asked_questions
-   Development_support
+   docs/Getting_started
+   docs/Authentication
+   docs/Orders
+   docs/Products
+   docs/Basket
+   docs/Frequently_asked_questions
+   docs/Development_support
