@@ -4,7 +4,7 @@
 
    Getting_started
    Authentication
-   Orders
+   docs/Orders
    Products
    Basket
    Frequently_asked_questions
