@@ -5,7 +5,7 @@
    Getting_started
    Authentication
    Orders
-   docs/Products
+   Products
    Basket
    Frequently_asked_questions
    Development_support
