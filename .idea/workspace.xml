@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="414b8faa-a0f9-46b4-a6eb-09ad6e6551e1" name="Default Changelist" comment="" />
+    <list default="true" id="414b8faa-a0f9-46b4-a6eb-09ad6e6551e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/docs/contens.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/contens.rst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/contens.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Getting_started.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -42,8 +49,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/contens.rst" />
         <option value="$PROJECT_DIR$/contens.rst" />
+        <option value="$PROJECT_DIR$/docs/contens.rst" />
       </list>
     </option>
   </component>
@@ -87,6 +94,11 @@
             <path>
               <item name="docs2" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs2" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docs2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs2" type="462c0819:PsiDirectoryNode" />
               <item name="Products" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -126,12 +138,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562667448313</updated>
-      <workItem from="1562667449400" duration="2387000" />
+      <workItem from="1562667449400" duration="2643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2387000" />
+    <option name="totallyTimeSpent" value="2643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
@@ -162,9 +174,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/contens.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/Orders/Creating_order.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
@@ -182,13 +191,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Products/Categories.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/contens.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Getting_started.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Products/Categories.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/contens.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
