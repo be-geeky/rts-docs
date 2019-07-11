@@ -4,7 +4,7 @@ Categories
 To retrieve a list of all available categories, send a ``GET`` request to ``/api/products/categories``.
 Your response will look like:
 
-.. literalinclude:: ../code_examples/Products/category-list.json
+.. literalinclude:: ../../code_examples/Products/category-list.json
    :language: JSON
    :linenos:
 
@@ -21,6 +21,6 @@ The following PHP code can be used to retrieve the available categories.
 Make sure you replace the values ``YOUR_USER_ID_HERE`` and ``YOUR_SECRET_HERE``
 with the User-ID and secret you received on the API-credentials page.
 
-.. literalinclude:: ../code_examples/Products/categories.php
+.. literalinclude:: ../../code_examples/Products/categories.php
    :language: PHP
    :linenos:

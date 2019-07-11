@@ -5,7 +5,7 @@ To know which combinations are available for each category, you can send a ``GET
 
 This will give you a response like:
 
-.. literalinclude:: ../code_examples/Products/combination-list.json
+.. literalinclude:: ../../code_examples/Products/combination-list.json
    :language: JSON
    :linenos:
 
@@ -21,6 +21,6 @@ Example request
 
 The following PHP code can be used to retrieve the possible combinations of a category. Make sure you replace the values ``YOUR_USER_ID_HERE`` and ``YOUR_SECRET_HERE`` with the User-ID and secret you received on the API-credentials page.
 
-.. literalinclude:: ../code_examples/Products/combinations.php
+.. literalinclude:: ../../code_examples/Products/combinations.php
    :language: PHP
    :linenos:

@@ -6,10 +6,10 @@ Products
 .. toctree::
    :hidden:
 
-   Products/Categories
-   Products/Attribute-values_from_a_category
-   Products/Product_combinations
-   Products/Validate_product_and_retrieve_price
+   docs/Products/Categories
+   docsProducts/Attribute-values_from_a_category
+   docs/Products/Product_combinations
+   docs/Products/Validate_product_and_retrieve_price
 
 A product consists of a category and attributes and values. To be able to order a product you need to:
 
