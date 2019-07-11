@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="414b8faa-a0f9-46b4-a6eb-09ad6e6551e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +23,21 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>link</find>
+      <find>move-doc</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/Products</dir>
@@ -41,22 +52,13 @@
       <list>
         <option value="$PROJECT_DIR$/docs/contens.rst" />
         <option value="$PROJECT_DIR$/contens.rst" />
+        <option value="$PROJECT_DIR$/test" />
         <option value="$PROJECT_DIR$/content.rst" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/docs2.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1920" />
@@ -120,12 +122,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562667448313</updated>
       <workItem from="1562667449400" duration="3999000" />
-      <workItem from="1562840532625" duration="1914000" />
+      <workItem from="1562840532625" duration="3520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5913000" />
+    <option name="totallyTimeSpent" value="7519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
@@ -170,6 +172,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Products/Categories.rst" />
     <entry file="file://$PROJECT_DIR$/contens.rst" />
+    <entry file="file://$PROJECT_DIR$/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
