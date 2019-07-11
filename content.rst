@@ -7,5 +7,5 @@
    Orders <./docs/Orders>
    Products <./docs/Products>
    Basket <./docs/Basket>
-   Frequently_asked_questions <./docs/Frequently_asked_questions>
-   Development_support <./docs/Development_support>
+   Frequently Asked Questions <./docs/Frequently_asked_questions>
+   Development Support <./docs/Development_support>
