@@ -2,7 +2,7 @@
    :includehidden:
    :titlesonly:
 
-   Getting_started <.\//docs/Getting_started>
+   Getting_started <./\/docs/Getting_started>
    Authentication <./docs/Authentication>
    Orders <./docs/Orders>
    Products <./docs/Products>
