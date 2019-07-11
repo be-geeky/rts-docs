@@ -7,7 +7,7 @@ To know which attributes and values are available from a category, you can send 
 
 This will return a response similar to:
 
-.. literalinclude:: ../../code_examples/Products/attribute-list.json
+.. literalinclude:: ../code_examples/Products/attribute-list.json
    :language: JSON
    :linenos:
 
@@ -20,7 +20,7 @@ Example request
 The following PHP code can be used to retrieve the available attributes and values. Make sure you replace the values ``YOUR_USER_ID_HERE`` and ``YOUR_SECRET_HERE`` with the User-ID and secret you received on the API-credentials page.
 
 
-.. literalinclude:: ../../code_examples/Products/attributes.php
+.. literalinclude:: ../code_examples/Products/attributes.php
    :language: PHP
    :linenos:
 
@@ -34,6 +34,6 @@ We also added validation rules for some of the externals. Not all rules are expo
 
 Criteria can also be present on external rules. These are values that must be present in the selection for this rule to be active. Take the following example below. The rule “width_max” (maximum width) with value “310” is active when “Budget PVC” is selected. But when “Flag fabric” is selected, the value for “width_max” is 5000.
 
-.. literalinclude:: ../../code_examples/Products/dynamic-attributes.json
+.. literalinclude:: ../code_examples/Products/dynamic-attributes.json
    :language: JSON
    :linenos:
